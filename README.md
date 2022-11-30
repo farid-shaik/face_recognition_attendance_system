@@ -1,3 +1,3 @@
-# One_Shot_Learning
+# Steps to follow
 
-## Please refer the document attached to this repo
+## will update soon
